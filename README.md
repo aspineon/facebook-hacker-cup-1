@@ -19,4 +19,3 @@ Online 1st Round:
 Online 2nd Round:
 
 - [x] Snakes and Ladders [25 points]
-- 
